@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cửa hàng ẩm thực</string>
+    <string name="slogan">Thức ăn đến trước cửa nhà bạn!</string>
+    <string name="title_activity_home">Trang chủ</string>
+    <string name="navigation_drawer_open">Mở điều hướng</string>
+    <string name="navigation_drawer_close">Đóng điều hướng</string>
+    <string name="nav_header_title">Tên đăng nhập</string>
+    <string name="nav_header_desc">Mô tả</string>
+    <string name="action_settings">Cài đặt</string>
+
+    <string name="menu_home">Trang chủ</string>
+    <string name="cart_home">Giỏ hàng</string>
+    <string name="orders_home">Đơn hàng</string>
+
+    <string name="home_second">Trang chủ 2</string>
+    <string name="log_out">Đăng xuất</string>
+    <string name="name_of_menu">Tên danh mục</string>
+    <string name="content_desc">Hình ảnh</string>
+    <string name="name_of_food">Tên món ăn</string>
+</resources>
